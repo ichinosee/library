@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Top</title>
+</head>
+<body>
+TOPメニュー
+<hr>
+<br><br>
+
+<form action="/jmaster2/MemberServlet" method="get">
+<h1>
+会員ID：<input type="text" name="code"><button type="submit" name="action" value="search">検索</button>
+<a href="/jmaster2/MemberServlet?action=input">登録画面</a>
+</h1>
+</form>
+<br><br>
+<form action="/jmaster2/BookServlet" method="get">
+<h1>
+資料ID：<input type="text" name="code"><button type="submit" name="action" value="search">検索</button>
+</h1>
+</form>
+
+
+</body>
+</html>
