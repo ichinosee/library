@@ -9,3 +9,8 @@
 ・会員登録と同時に貸し出し対応が同じページで行うことができる<br>
 ・会員番号から会員情報を検索<br>
 ・会員情報から貸し出し/返却を行うことができる<br>
+
+#イメージ写真
+<img src="https://s1.gifyu.com/images/l1.png" alt="l1" border="0">
+<img src="https://s1.gifyu.com/images/l2.png" alt="l2" border="0">
+<img src="https://s1.gifyu.com/images/l3.png" alt="l3" border="0">
